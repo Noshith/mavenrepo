@@ -27,7 +27,7 @@
   </build>
    <distributionManagement>
        <snapshotRepository>
-            <id>deployment</id>
+            <id>nexus</id>
             <name>Internal Snapshot Releases</name>
             <url>http://43.205.96.160:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
